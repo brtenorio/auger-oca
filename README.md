@@ -3,6 +3,10 @@ This is the readme file for auger-OCA
 Contact person: Bruno Tenorio
 b.nunes.bruno@gmail.com
 
+view
+
+https://pypi.org/project/auger-oca/
+
 Use
 ```
 pip install auger-oca
