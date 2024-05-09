@@ -7,7 +7,7 @@ view
 
 https://pypi.org/project/auger-oca/
 
-Use
+Instal with pip
 ```
 pip install auger-oca
 ```
